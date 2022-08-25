@@ -1,0 +1,42 @@
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2016/01/27/15/25/space-1164579_1280.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    background-attachment: fixed;
+}
+
+.malo{
+    background-color: red;
+    width: 25rem;
+}
+
+
+.rebelde{
+    background-color: blue;
+    width: 30rem;
+}
+li{
+    list-style: none;
+}
+
+
+#darth{
+    font-size: 50px;
+}
+
+#luke{
+    font-style: italic;
+}
+
+.soldad{
+    border: 1px black;
+    border-style: dashed;
+    letter-spacing: 3px;
+}
+.apoyo{
+    text-align: center;
+}
+
+.droides{
+    text-align: center;
+}
